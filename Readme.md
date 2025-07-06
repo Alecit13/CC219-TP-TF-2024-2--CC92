@@ -51,8 +51,8 @@ Puedes ver más detalles en el archivo `EDA_APDA.ipynb`.
 ## 🔗 Enlaces Relevantes
 
 - [FER2013 Dataset en Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)
-- [Colab del modelo EMOTIVA](https://colab.research.google.com/drive/...) *(Reemplazar con enlace real)*
-- [Presentación EMOTIVA](https://docs.google.com/presentation/d/...) *(Reemplazar con enlace real)*
+- [Colab del modelo EMOTIVA](https://colab.research.google.com/drive/1QUX1HmVuVfLUNaaZ1_vgI_OuEABF88hH?usp=sharing)
+- [Presentación EMOTIVA](https://www.canva.com/design/DAGnKamPoQI/sLzzZFyObbzkmNqkF_iIcw/edit?utm_content=DAGnKamPoQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
